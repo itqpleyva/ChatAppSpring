@@ -1,5 +1,5 @@
 # Spring-Boot-WebSocket
-Building a chat application using Spring Boot and Web Socket
+Building a chat room application using Spring Boot and Websockets and Stomp protocol
 
 Dependencies:
 
