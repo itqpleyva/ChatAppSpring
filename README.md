@@ -2,6 +2,8 @@
 Building a chat room application using Spring Boot and Websockets and Stomp protocol
 <img src="chat.png">
 
+To run the app go to : //localhost:8080
+
 Dependencies:
 <dependencies>
 		<dependency>
